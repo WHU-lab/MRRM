@@ -1,3 +1,3 @@
-Tittle: MUSE: Multi-Scale Ring Rotation-invariant Feature Matching for Low Visibility Pathology Images
+Tittle: Matching multi-scale ring rotation-invariant features for assisting biomarker alignment of pathology images
 
-I'll be open-sourcing my code on GitHub once the related paper is published—stay tuned!
+I'll be open-sourcing my code on GitHub —stay tuned!
